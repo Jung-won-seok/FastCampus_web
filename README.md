@@ -2,4 +2,5 @@
 <br>
 git add . <br>
 git commit -m "커밋 내용" <br>
+git pull original master
 git push original master
