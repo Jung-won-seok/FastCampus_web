@@ -3,4 +3,5 @@
 git add . <br>
 git commit -m "커밋 내용" <br>
 git pull original master<br>
-git push original master
+git push original master <br>
+<img src="https://github.com/ParkYoungWoong/mbti-job-hiding-inside-me/blob/main/screenshot-main.jpg?raw=true" alt="실행화면">
