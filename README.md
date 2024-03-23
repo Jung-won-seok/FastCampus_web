@@ -4,4 +4,5 @@ git add . <br>
 git commit -m "커밋 내용" <br>
 git pull original master<br>
 git push original master <br>
+<a href="[링크 주소](https://jocular-creponne-4a8466.netlify.app/)">mbti테스트 하러 가기</a>
 <img src="https://github.com/ParkYoungWoong/mbti-job-hiding-inside-me/blob/main/screenshot-main.jpg?raw=true" alt="실행화면">
